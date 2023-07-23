@@ -22,36 +22,11 @@
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 🤔 I’m interested in Competitive Programming.
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
-- 
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-contribs,prs&theme=transparent)
+- ⚡ Fun fact: I often play video games.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sohel&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-**Languages and Tools:**
+
+
 
 <img align="left" alt="C" width="26px" src="https://cdn-icons-png.flaticon.com/512/3097/3097008.png"/>
 <img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>

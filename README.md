@@ -7,8 +7,8 @@
 <a href="https://www.linkedin.com/in/mrsohelcse/">
   <img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
-<a href="https://github.com/mr-sohel">
-  <img align="left" alt="Sohel's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
+<a href="https://github.com/shishirmondal13">
+  <img align="left" alt="shishir's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
 <a href="https://www.instagram.com/shishir_mondal_/">
   <img align="left" alt="shishir's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />

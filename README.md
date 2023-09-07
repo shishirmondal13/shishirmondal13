@@ -5,7 +5,7 @@
   <img align="left" alt="Sohel's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
 <a href="https://www.linkedin.com/in/Shishir Mondal/">
-  <img align="left" alt="https://www.linkedin.com/in/shishir-mondol-5a268828b/" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+  <img align="left" alt="Shishir's Mondol" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://github.com/shishirmondal13">
   <img align="left" alt="shishir's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />

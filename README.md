@@ -4,8 +4,8 @@
 <a href="https://twitter.com/mrsohelcse">
   <img align="left" alt="Sohel's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
-<a href="https://www.linkedin.com/in/mrsohelcse/">
-  <img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+<a href="https://www.linkedin.com/in/Shishir Mondal/">
+  <img align="left" alt="https://www.linkedin.com/in/shishir-mondol-5a268828b/" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://github.com/shishirmondal13">
   <img align="left" alt="shishir's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />

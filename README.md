@@ -4,7 +4,7 @@
 <a href="https://twitter.com/ShishirMondol13">
   <img align="left" alt="Shishir's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
-<a href="https://www.linkedin.com/in/shishir-mondol-5a268828b/">
+<a href="https://www.linkedin.com/in/shishir-mondal-5a268828b/">
   <img align="left" alt="Shishir's Mondol" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://github.com/shishirmondal13">
